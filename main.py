@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 import random
 
-extensions = ["txt", "docx", "jpg", "jpeg", "png", "ppt", "pptx", "mp3", "ogg", "wav", "flac", "m4a", "mp4", ""]
+extensions = ["txt", "docx", "jpg", "jpeg", "png", "ppt", "pptx", "mp3", "ogg", "wav", "flac", "m4a", "mp4", "", "jar"]
 banned_extensions = ["py", "exe", "md"]
 
 
