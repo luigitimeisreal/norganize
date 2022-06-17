@@ -1,5 +1,6 @@
 # norganize
 ![Cover image](https://i.imgur.com/NZgRLop.png)
+
 Script that changes file extensions of the files inside its directory.
  If you want you can contribute in any of these:
 - Improve the program, so it can act recursively on directories too. 
