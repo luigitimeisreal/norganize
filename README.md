@@ -10,4 +10,4 @@ Script that changes file extensions of the files inside its directory.
 
 When contributing make sure to follow the same style as the rest of the project.
 
-I am not responsible for any kind of damage that this program causes. Use it at your own risk or only with educational purpose.
+**I am not responsible for any kind of damage that this program causes. Use it at your own risk or only with educational purpose.
